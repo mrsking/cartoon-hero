@@ -1,0 +1,67 @@
+html, body{
+	font-family: monotype corsiva;
+	margin: 0;
+}
+
+header{
+	background-color: #187D9E;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+    font-size: 115px;
+	color: white;
+}
+
+header img{
+	border-radius: 273px;
+    width: 234px;
+    border: 6px solid #C9E8F2;
+}	
+
+.content{
+	max-width: 554px;
+	margin: 0;
+    padding: 0px 20px;
+}
+
+img.big-image{
+	max-width: 321px;
+}
+
+p.caption{
+	font-size: 16px;
+	color: violet;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: fuschia;
+	text-decoration: none;
+}
+
+
+footer{
+	padding: 40px 20px;
+	background-color: #ffccff;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Tiana</h1>
+		</header>*/
